@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 420" fill="none">
+
+  <!-- Shield -->
+  <path d="M250 70 L320 105 L305 200 Q250 245 195 200 L180 105 Z" fill="#5f7f88"></path>
+
+  <!-- Chat bubble -->
+  <rect x="215" y="140" width="70" height="40" rx="8" fill="white"></rect>
+  <polygon points="240,180 230,195 230,180" fill="white"></polygon>
+
+  <!-- Chat dots -->
+  <circle cx="235" cy="160" r="3" fill="#5f7f88"></circle>
+  <circle cx="250" cy="160" r="3" fill="#5f7f88"></circle>
+  <circle cx="265" cy="160" r="3" fill="#5f7f88"></circle>
+
+  <!-- Left wreath -->
+  <path d="M170 220 C120 170 120 120 180 90" stroke="#5f7f88" stroke-width="6" stroke-linecap="round"></path>
+
+  <path d="M170 220 C140 200 130 170 160 150" stroke="#5f7f88" stroke-width="6" stroke-linecap="round"></path>
+
+  <!-- Right wreath -->
+  <path d="M330 220 C380 170 380 120 320 90" stroke="#5f7f88" stroke-width="6" stroke-linecap="round"></path>
+
+  <path d="M330 220 C360 200 370 170 340 150" stroke="#5f7f88" stroke-width="6" stroke-linecap="round"></path>
+
+  <!-- Bottom curve -->
+  <path d="M210 235 Q250 260 290 235" stroke="#5f7f88" stroke-width="6"></path>
+
+  <!-- Text -->
+  <text x="250" y="330" font-size="52" text-anchor="middle" font-family="Georgia, serif" fill="#5f7f88" letter-spacing="4">
+        CHAT ME
+  </text>
+
+</svg>
